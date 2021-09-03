@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.me",
-	"port": "25565",
+	"ip":"Telljack.aternos.me",
+	"port": "34984",
 	"name": "NRBot",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
